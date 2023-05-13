@@ -1,5 +1,5 @@
 
-# Game of Thrones with World Cloud
+# Game of Thrones with Word Cloud
 ## Objective 
 
 This project aims to extract data from a CSV file and generate a Word Cloud that emphasizes the most relevant keywords. The final output will be shaped to fit a specific design. In this case, the House Stark Banner. 
